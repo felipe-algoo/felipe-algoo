@@ -1,8 +1,7 @@
 ## Hi  👋
 
 
-- I study computer science with a research focus on the mathematical and computational foundations of quantum computing.
-- And a postgraduate student in the Quantum Computing program.
+- I study computer science and a postgraduate student in the Quantum Computing program.
 
 
 <p align="center">
